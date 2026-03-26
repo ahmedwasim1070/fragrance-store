@@ -16,15 +16,6 @@ function Footer() {
         </svg>{" "}
         2024 Crush Fragrances LTD{" "}
       </p>
-      <p className="flex gap-3 text-[18px]">
-        Created by &lt;./&gt; by{" "}
-        <a
-          className=" underline"
-          href="https://github.com/ahmedwasim1070/crush-ecomerce-store"
-        >
-          ahmedwasim1070
-        </a>
-      </p>
     </div>
   );
 }
